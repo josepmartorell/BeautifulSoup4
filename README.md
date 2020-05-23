@@ -14,7 +14,7 @@ First you must access from your terminal to the directory where you want to save
 - License
 
 # Context
-This is the first of a series of four projects aimed at automating search and data collection tasks related to my city's business & travel agency. This initial work sets out to create a basis for addressing web scraping techniques at the professional level. Although Scrapy is almost always the favorite, bs4 has made my job much easier, since it has a way of managing XML information that is normally clear and easy to handle. :heart:
+This is the first of a series of four projects aimed at automating search and data collection tasks related to my city's business & travel agency. This initial work sets out to create a basis for addressing web scraping techniques at the professional level. Although Scrapy is almost always the favorite, bs4 has made my job much easier, since it has a way of managing XML information that is normally clear and easy to handle.
 
 # Manuals
 - [ ] *[Resource 1](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)*
