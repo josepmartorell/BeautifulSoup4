@@ -27,5 +27,5 @@ This is the first of a series of four projects aimed at automating search and da
 - * [Business&Travel agency (landing page for the memorial age)](https://s3.eu-west-1.amazonaws.com/jmartorell.tech/index.html) :airplane: 
  
 # License  
-- * ![MIT](LICENSE)
+- * ![Apache 2.0](LICENSE)
 
