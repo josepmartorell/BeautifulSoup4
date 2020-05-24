@@ -5,6 +5,7 @@ Created to parse HTML files, BeautifulSoup builds a DOM object by storing the XM
 First you must access from your terminal to the directory where you want to save the project. Install this project on your local computer by typing the following in the command prompt of the linux command interpreter:
 
 (env)$ git clone https://github.com/josepmartorell/BeautifulSoup4.git
+
 (env)$ pip install -r requirements.txt
 
 # Table of Contents
@@ -26,5 +27,5 @@ This is the first of a series of four projects aimed at automating search and da
 - * [Business&Travel agency (landing page for the memorial age)](https://s3.eu-west-1.amazonaws.com/jmartorell.tech/index.html) :airplane: 
  
 # License  
-- * ![APACHE 2.0](LICENSE)
+- * ![MIT](LICENSE)
 
